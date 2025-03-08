@@ -63,7 +63,7 @@ public void displayLosingMessage(int r,int c)
         buttons[r][c].setLabel("L");
         
       
-     System.out.println("L");
+   
     noLoop();
 }
 public void displayWinningMessage()
